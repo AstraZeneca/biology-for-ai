@@ -13,7 +13,9 @@ If you need hope here is the view of Uri Alon, one of the founder of the discipl
 ## Courses
 The best introductory course in biology is arguably Eric Lander's (&co) MIT 7.00x: https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3 which can be audited for free; the material is available also [on OCW](https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/)
 
-Uri Alon also has released a great system biology course available online: https://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits 
+Uri Alon also has released a great **system biology** course available online: https://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits 
+
+Another course on **systems medicine** is available from: https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-medicine-course-2020
 
 ## Books
 The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
