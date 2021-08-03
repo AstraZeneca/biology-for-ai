@@ -17,6 +17,9 @@ Uri Alon also has released a great **system biology** course available online: h
 
 Another course on **systems medicine** is available from: https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-medicine-course-2020
 
+This is a **systems biology** course by Bernhard Palsson: https://www.youtube.com/playlist?list=PLzm7DNlS3_0hryL9WsVbWV_EkwBJNt9s3
+
+
 And if you want to learn more about network and graphs there is a course in [Network analysis in systems biology](https://www.coursera.org/learn/network-biology) for free on Coursera. You can use all the techniques from the course on our internal graph: [BIKG](https://bikg.astrazeneca.net)
 
 ## Books
