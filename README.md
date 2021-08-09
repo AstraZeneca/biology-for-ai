@@ -22,6 +22,8 @@ And if you want to learn more about network and graphs there is a course in [Net
 ## Books
 The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
 
+[A Very Short Introduction to Molecular Biology](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882) a pocket guide that introduces you to the core concepts and terminology.
+
 
 ## Smaller "primers"
 
