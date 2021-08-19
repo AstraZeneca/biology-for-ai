@@ -17,7 +17,7 @@ Uri Alon also has released a great **system biology** course available online: h
 
 Another course on **systems medicine** is available from: https://www.weizmann.ac.il/mcb/UriAlon/courses/systems-medicine-course-2020
 
-And if you want to learn more about network and graphs there is a course in [Network analysis in systems biology](https://www.coursera.org/learn/network-biology) for free on Coursera. You can use all the techniques from the course on our internal graph: [BIKG](https://bikg.astrazeneca.net)
+And if you want to learn more about network and graphs there is a course in [Network analysis in systems biology](https://www.coursera.org/learn/network-biology) for free on Coursera. 
 
 ## Books
 The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
