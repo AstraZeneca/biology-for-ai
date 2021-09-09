@@ -24,6 +24,7 @@ The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Comme
 
 [A Very Short Introduction to Molecular Biology](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882) a pocket guide that introduces you to the core concepts and terminology.
 
+[Bioinformatics Algorithms Textbook](https://www.bioinformaticsalgorithms.org/) - this book could also be considered a self-contained course. Learning about biology can be easier for some CS people when explained through algorithms, and this book is really good at merging biology and code into coherent concepts 🙂
 
 ## Smaller "primers"
 
