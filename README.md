@@ -25,8 +25,6 @@ This is a **systems biology** course by Bernhard Palsson: <https://www.youtube.c
 This is a **systems biology** course by Bernhard Palsson: https://www.youtube.com/playlist?list=PLzm7DNlS3_0hryL9WsVbWV_EkwBJNt9s3
 
 
-And if you want to learn more about network and graphs there is a course in [Network analysis in systems biology](https://www.coursera.org/learn/network-biology) for free on Coursera. You can use all the techniques from the course on our internal graph: [BIKG](https://bikg.astrazeneca.net)
-
 ## Books
 
 The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
