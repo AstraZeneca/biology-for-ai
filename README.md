@@ -22,8 +22,6 @@ Another course on **systems medicine** is available from: <https://www.weizmann.
 
 This is a **systems biology** course by Bernhard Palsson: <https://www.youtube.com/playlist?list=PLzm7DNlS3_0hryL9WsVbWV_EkwBJNt9s3>
 
-This is a **systems biology** course by Bernhard Palsson: https://www.youtube.com/playlist?list=PLzm7DNlS3_0hryL9WsVbWV_EkwBJNt9s3
-
 
 ## Books
 
