@@ -6,7 +6,8 @@ a syllabus and some resources for learning biology, geared for machine learning 
 
 Biology is fractal in its complexity and superbly interesting.
 As a computer scientist or machine learning scientist many of the concepts you encounter will resonate with you.
-Indeed, the application of computing and engineering approaches promises to transform and advance our understanding of biology, an argument elegantly made by Yuri Lazbenik in his [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
+
+The application of computing and engineering approaches promises to transform and advance our understanding of biology, an argument elegantly made by Yuri Lazbenik in his [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
 
 If you needed some more motivation (and guidance on how) to learn biology, James Somers has a magnificent essay: <http://jsomers.net/i-should-have-loved-biology/>
 
@@ -25,11 +26,14 @@ This is a **systems biology** course by Bernhard Palsson: <https://www.youtube.c
 
 ## Books
 
+[Cell biology by the numbers](http://book.bionumbers.org/) is an excellent entry point to explore some of the key numbers of cell biology.
+
 The [eight day of creation](https://www.amazon.com/The-Eighth-Day-Creation-Commemorative/dp/0879694785) is "the best history of recent biological science yet published"
 
 [A Very Short Introduction to Molecular Biology](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882) a pocket guide that introduces you to the core concepts and terminology.
 
 [Bioinformatics Algorithms Textbook](https://www.bioinformaticsalgorithms.org/) - this book could also be considered a self-contained course. Learning about biology can be easier for some CS people when explained through algorithms, and this book is really good at merging biology and code into coherent concepts 🙂
+
 
 ## Smaller "primers"
 
